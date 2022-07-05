@@ -1,5 +1,5 @@
 Name: Doro
-Age: feels like 36
-constant phrase: I am hungry
+Age: feel like 36
+most-used phrase: I am hungry
 current state: HUNGRY!!!!
-fuck that, I need something to eat. Else my tummy rumble is disturbing my concentration MASSIVELY! 
+
